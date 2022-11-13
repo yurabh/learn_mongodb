@@ -1,4 +1,4 @@
-package domain;
+package com.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

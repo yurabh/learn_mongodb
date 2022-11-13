@@ -14,7 +14,7 @@
 
     <groupId>com.learn.mongo.db</groupId>
     <artifactId>learn_mongo_db</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2</version>
 
     <properties>
         <java.version>11</java.version>
@@ -41,7 +41,7 @@
         </dependency>
         <dependency>
             <groupId>io.springfox</groupId>
-            <artifactId>springfox-swagger2</artifactId>
+            <artifactId>springfox-swagger-ui</artifactId>
             <version>3.0.0</version>
         </dependency>
     </dependencies>
