@@ -20,8 +20,8 @@ application.properties.
 
 * spring.data.com.username=${Value}
 * spring.data.com.password=${Value}
-spring.data.com.database=${Value}
-spring.data.com.port=${Value}
-spring.data.com.host=${Value}
-spring.mvc.pathmatch.matching-strategy=${Value}
-spring.data.mongodb.uri=${Value}
+* spring.data.com.database=${Value}
+* spring.data.com.port=${Value}
+* spring.data.com.host=${Value}
+* spring.mvc.pathmatch.matching-strategy=${Value}
+* spring.data.mongodb.uri=${Value}
